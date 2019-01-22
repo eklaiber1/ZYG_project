@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ZYG</string>
+    <string name="word_theme">Meet the automatic social media manager that lets you live in the moment without distractions</string>
+    <string name="no_acct">Don\'t have an account\? Sign up here</string>
+    <string name="forget_pw">forgot password\?</string>
+    <string name="signup_fb">Sign in with facebook</string>
+    <string name="password">password</string>
+    <string name="name">name</string>
+    <string name="Sign_up">Sign Up</string>
+    <string name="password_requirements">Must be at least 8 characters, with at least one upper-case and one number</string>
+
+
+    <!--all the strings belong to the AccountGist page-->
+    <string name="Howit">How it works</string>
+    <string name="setperson">Set personalized locations where you will be easily distracted and customized which applications you would
+                             like to limit</string>
+    <string name="onceyou">Once you arrive at the location, your applications will be automatically turned off so you
+                            can commit to time</string>
+    <string name="committo">Commit to time with friends together and share locations </string>
+    <string name="areyou">Are you ready to commit</string>
+    <string name="yes">Yes</string>
+
+
+</resources>
